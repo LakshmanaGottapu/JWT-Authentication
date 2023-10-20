@@ -1,0 +1,16 @@
+h1{
+    color: red
+}
+nav{
+    border: 2px solid grey;
+    padding: 5px;
+    width: 20vw;
+}
+nav>ul{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+}
